@@ -11,12 +11,12 @@
 
 ## WEEK 1 TASKS:
 ### Accessing Comet:
-1. Setup XSEDE Portal Account:
+1. Setup XSEDE Portal Account here:
 * [http://portal.xsede.org](http://portal.xsede.org)
-* Get portalID
+* Write down your portalID.
 
 2. Confirm Enrollment (Google Form):
-* [http://bit.ly/hpc-enrollment-2020](http://bit.ly/hpc-enrollment-2020)
+* [SCC20 Team Enrollment Form](https://docs.google.com/forms/d/1FF_Xw05yj5J1-lkUlcBrLaDE0VF3E6SH5sHmemsgQYo/edit)
 * Be sure to enter your XSEDE PortalID
 
 3. Once you have confirmed your enrollment and given us you XSEDE PortalID:
