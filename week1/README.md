@@ -1,5 +1,5 @@
 # SDSC SCC20 Team Prep
-* Updated 1/28/20 by Mary Thomas
+* Updated 7/30/20 by Mary Thomas
 
 ### WEEK 1: July 24, 2020
 
