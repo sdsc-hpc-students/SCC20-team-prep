@@ -24,9 +24,19 @@
 * In a few days, you will recieve notification that your Comet account is ready for logging on with instructions on how to set your password.
 * Note: your Comet account password will be the same password that you used when creating your XSEDE Portal account.
 
-4. After your account has been created on Comet and you have set your password, log on and run a few of the commands in these basic self-guided tutorials (to make sure the account is working):
-* [Testing your basic_linux skills:](https://github.com/sdsc-hpc-training-org/basic_skills/tree/master/basic_linux_skills)
-* [Connecting to SDSC HPC systems/](https://github.com/sdsc-hpc-training-org/basic_skills/tree/master/connecting-to-hpc-systems)
+
+### Test your basic skills:
+* After your account has been created on Comet and you have set your password, log on and run a few of the commands in these basic self-guided tutorials (to make sure the account is working):
+  * [Testing your basic_linux skills:](https://github.com/sdsc-hpc-training-org/basic_skills/tree/master/basic_linux_skills)
+  * [Connecting to SDSC HPC systems/](https://github.com/sdsc-hpc-training-org/basic_skills/tree/master/connecting-to-hpc-systems)
+
+
+### Running Jobs on Comet:
+* Training materilas located here:  https://github.com/sdsc-hpc-training-org/comet-101
+* View the [Comet 101 interactive video](https://education.sdsc.edu/training/interactive/202004_intro_to_comet/index.php)
+  * [Comet 101 presentation](https://github.com/sdsc-hpc-training-org/comet-101/blob/master/Webinar-Running-Jobs-on-Comet-04-16-2020.pdf)
+* Follow the Hands-on Self-guided Tutorial:
+  * https://github.com/sdsc-hpc-training-org/comet-101/blob/master/Webinar-Running-Jobs-on-Comet-04-16-2020.pdf
 
 
 ### Running Jupyter Notebooks:
