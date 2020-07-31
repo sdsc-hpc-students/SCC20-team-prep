@@ -1,15 +1,15 @@
 # SCC20-team-prep
 
 ## Training Schedule (July, 2020):
-schedule subject to change
+**schedule subject to change**
 
 |WEEK|DAY|DATE|TITLE|PRESENTER|
 |:----:|:----:|----------|-------------------|----------------|
 |1|Fri| 07/17/20 | Team Selection Announced;  Program Orientation, history, plan;  HPC overview & Comet Architecture | Mary Thomas|
 |2|Fri| 07/24/20 | Accessing and Running Jobs on Comet; Parallel Queues & batch scripting | Mary Thomas|
 |3|Fri| 07/31/20 | Jupyter Notebooks on Comet; SCC20 Benchmark and Science Application Overview| Mary Thomas|
-|4|Fri|	8/7/2020 | SCC Benchmarks: Linpack, HPCG, IO500	| Mentors|
-|5|Fri |8/14/2020 | SCC Apps: Climate (CESM); Gromacs MemXCT |	Mentors |
+|4|Fri|	8/7/2020 | Jetstream| Marty Kandes|
+|5|Fri |8/14/2020 | TBA | TBA |
 |6|Fri	|8/21/2020 | TBA | TBA |
 |7|Fri	|8/28/2020 | TBA | TBA |
 |8|Fri	|9/4/2020 | TBA | TBA |
