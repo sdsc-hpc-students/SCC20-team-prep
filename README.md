@@ -7,7 +7,7 @@ schedule subject to change
 |:----:|:----:|----------|-------------------|----------------|
 |1|Fri| 07/17/20 | HPC overview & Comet Architecture | Mary Thomas|
 |2|Fri| 07/24/20 | Accessing and Running Jobs on Comet; Parallel Queues & batch scripting | Mary Thomas|
-|3|Fri| 07/31/20 | Jupyter Notebooks on Comet; SCC20 Application Overview | Mary Thomas|
+|3|Fri| 07/31/20 | Jupyter Notebooks on Comet; SCC20 Benchmark and Science Application Overview| Mary Thomas|
 |4|Fri|	8/7/2020 | Visualization Using Python and Jupyter Notebooks |Jeff Sale|
 |5|Fri |8/14/2020 | Profiling, monitoring, and optimization; Introduction to Linpack |	Bob Sinkovits |
 |6|Fri	|8/21/2020 | TBA | TBA |
