@@ -1,0 +1,11 @@
+700  module purge
+  701  module load slurm
+  702  module load cpu/1.0  
+  703  module load gpu
+  704  module load intel/19.1.1.217
+  705  module load intel-mkl
+  706  module load mvapich2/2.3.4
+  707  module load openmpi/4.0.4
+  708  vi README_MatMul.txt 
+
+714  vi matmul-mlk-slurm.sb 

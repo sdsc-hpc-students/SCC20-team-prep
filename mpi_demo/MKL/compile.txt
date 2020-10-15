@@ -1,0 +1,1 @@
+mpicc -o pdpttr.exe pdpttr.c  -I$INTEL_MKLHOME/include ${INTEL_MKLHOME}/lib/intel64/libmkl_scalapack_lp64.a  -Wl,--start-group ${MKL_ROOT}/lib/intel64/libmkl_intel_lp64.a  ${INTEL_MKLHOME}/lib/intel64/libmkl_core.a ${INTEL_MKLHOME}/lib/intel64/libmkl_sequential.a  -Wl,--end-group ${INTEL_MKLHOME}/lib/intel64/libmkl_blacs_intelmpi_lp64.a -lpthread -lm
